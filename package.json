@@ -1,0 +1,30 @@
+{
+  "name": "roddeh-i18n-ru",
+  "version": "1.0.0",
+  "description": "Russian pluralisation extension for roddeh-i18n",
+  "main": "dist/i18n-ru.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roddeh/i18njs-ru.git"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "i18njs",
+    "russian"
+  ],
+  "author": "Simon Rodwell (https://github.com/roddeh)",
+  "contributors": [
+    
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roddeh/i18njs-ru/issues"
+  },
+  "homepage": "http://i18njs.com",
+  "devDependencies": {
+  }
+}
